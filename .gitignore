@@ -1,0 +1,10 @@
+.env
+.DS_Store
+/__pycache__/
+*.py[cod]
+*.pyc
+cogs/__pycache__/*
+cogs/__pycache__/AnimeSearch.cpython-310.pyc
+cogs/__pycache__/BotBase.cpython-310.pyc
+cogs/__pycache__/CharSearch.cpython-310.pyc
+cogs/__pycache__/VoiceSearch.cpython-310.pyc
