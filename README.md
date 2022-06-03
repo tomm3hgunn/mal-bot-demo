@@ -1,4 +1,4 @@
-# MAL Discord Bot
+# MAL Discord Bot Demo
 This repo does not include source code and is used for demo purposes only. It will visually present the functions of my mal discord bot.
 
 ## Summary
