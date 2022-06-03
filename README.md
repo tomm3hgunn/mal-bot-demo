@@ -11,12 +11,12 @@ Add the bot to your server [here](https://discord.com/api/oauth2/authorize?clien
 
 ### Table of Contents
 <!---Two spaces for line break-->
-[Full Demo](#full-demo)  
-[Anime Search](#anime-search)  
-[Character Search](#character-search)  
-[Voice Actor Search](#voice-actor-search)  
-[Top Anime Search](#top-anime-search)  
-[History](#history)  
+**[Full Demo](#full-demo)**  
+**[Anime Search](#anime-search)**  
+**[Character Search](#character-search)**  
+**[Voice Actor Search](#voice-actor-search)**  
+**[Top Anime Search](#top-anime-search)**  
+**[History](#history)**  
 
 ## Full Demo
 <img src=https://github.com/tomm3hgunn/mal-bot-demo/blob/main/docs/mal-bot-demo.gif height="500">
