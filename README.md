@@ -6,17 +6,21 @@ Discord bot that obtains anime/character/person information using MAL database. 
 
 Ultilizes SQL database to store and receive users in server, server names, and sucessful searches that users make. Usage of MAL and Jikan APIs to get necessary data.
 
+## Full Demo
+<img src=https://github.com/tomm3hgunn/mal-bot-demo/blob/main/docs/mal-bot-demo.gif height="500">
+
+
 ## Anime Search
-<img src=link height="500">
+<img src=https://github.com/tomm3hgunn/mal-bot-demo/blob/main/docs/aniSearchDemo.gif height="500">
 
 ## Character Search
-<img src=link height="500">
+<img src=https://github.com/tomm3hgunn/mal-bot-demo/blob/main/docs/charSearchDemo.gif height="500">
 
 ## Voice Actor Search
-<img src=link height="500">
+<img src=https://github.com/tomm3hgunn/mal-bot-demo/blob/main/docs/voiceSearchDemo.gif height="500">
 
 ## Top Anime
-<img src=link height="500">
+<img src=https://github.com/tomm3hgunn/mal-bot-demo/blob/main/docs/topAniDemo.gif height="500">
 
 ## History
-<img src=link height="500">
+<img src=https://github.com/tomm3hgunn/mal-bot-demo/blob/main/docs/histDemo.gif height="500">
