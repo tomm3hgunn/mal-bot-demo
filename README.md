@@ -7,7 +7,6 @@ Discord bot that obtains anime/character/person information using MyAnimeList da
 Ultilizes SQL database to store and receive users in server, server names, and sucessful searches that users make. Usage of MAL and Jikan APIs to get necessary data.
 
 Add the bot to your server [here](https://discord.com/api/oauth2/authorize?client_id=965464672482504724&permissions=139589962817&scope=bot)!  
-• Bot Status: Offline
 
 ### Table of Contents
 <!---Two spaces for line break-->
